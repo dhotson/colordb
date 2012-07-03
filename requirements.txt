@@ -1,3 +1,4 @@
 Flask
 Rtree
 colormath
+numpy
